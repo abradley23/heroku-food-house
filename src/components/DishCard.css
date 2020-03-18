@@ -1,0 +1,9 @@
+.card {
+    float: left;
+    max-width: 9rem;
+    height: 17rem;
+    margin: 0.5rem;
+    overflow: hidden;
+    margin-top: 1.5rem;
+  }
+ 

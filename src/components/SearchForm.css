@@ -1,0 +1,14 @@
+.form-inline {
+    /* background-color: #eee; */
+    width: 100%;
+    text-align: center
+  }
+  input {
+    width: 60%;
+    margin-bottom: 1.5rem;
+    padding: 10px;
+  }
+  button {
+    padding: 10px;
+  }
+ 

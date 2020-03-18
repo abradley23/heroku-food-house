@@ -1,0 +1,20 @@
+.recipeCard {
+  display: grid;
+  justify-content: center;
+}
+
+#recipeCard {
+  max-width: 50rem;
+  height: 100%;
+  margin: 0.5rem;
+  overflow: hidden;
+}
+
+
+#recipeCard img {
+  margin-bottom: 16px;
+}
+
+#accordionRecipe {
+  width: 40rem;
+}
