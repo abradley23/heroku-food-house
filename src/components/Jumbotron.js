@@ -35,6 +35,8 @@ const getRandom2 = async () => {
     getRandom3();
   }, []);
 
+  console.log(random.meals.strMealThumb)
+
   return (
     <div id="carouselRecipe" className="carousel slide" data-ride="carousel">
       <ol className="carousel-indicators">
